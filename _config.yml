@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Ethan Reed
+email: ecr6nd@virginia.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Personal blog of Ethan Reed, PhD Candidate in English
+  Literature at the University of Virginia.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://reedeth.github.io" # the base hostname & protocol for your site
+twitter_username: reedeth
+github_username:  reedeth
+
+# Build settings
+markdown: kramdown
