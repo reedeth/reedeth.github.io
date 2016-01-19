@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: page
+title: Writing
+permalink: /writing/
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+<ul class="post-list">
     {% for post in site.posts limit:3 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -17,9 +15,3 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-  <!--put a <p> check out all my other posts!</>  -->
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
