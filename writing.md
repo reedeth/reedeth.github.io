@@ -3,10 +3,15 @@ layout: page
 title: Writing
 permalink: /writing/
 ---
+<header class="sidebar">
 
 <ul class="post-list">
     {% for post in site.posts %}
+    {% if post.img %}
+    <img src="{{ root_url }}/images/{{ post.img }}" class="left-images">
+    {% endif %}
       <li>
+
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>

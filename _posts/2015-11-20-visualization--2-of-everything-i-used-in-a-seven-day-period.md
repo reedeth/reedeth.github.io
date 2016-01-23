@@ -5,6 +5,7 @@ author: "Ethan Reed"
 date: 2015-11-20 15:39
 comments: true
 category: blog
+img: 12.3vis2thursday.png
 ---
 
 So with a significant amount of help from [Eric](http://scholarslab.org/people/eric-rochester/), I was able to get [this force-directed graph](http://bl.ocks.org/mbostock/4062045) from [d3js.org](http://d3js.org/) up and running with my data set from ["Everything I Used in a Seven Day Period"](http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/). This force-directed graph is one of [Mike Bostock's many graphs and visualizations](http://bost.ocks.org/mike/). I used what he had up on d3, replaced his data set with mine, then with a ton of help from Eric figured out how to get it to read and represent my .csv file even though the original was primed to read a .json data set.
