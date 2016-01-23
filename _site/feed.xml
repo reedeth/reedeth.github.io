@@ -6,8 +6,8 @@
 </description>
     <link>http://reedeth.github.io/</link>
     <atom:link href="http://reedeth.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Jan 2016 18:29:43 -0500</pubDate>
-    <lastBuildDate>Sat, 23 Jan 2016 18:29:43 -0500</lastBuildDate>
+    <pubDate>Sat, 23 Jan 2016 18:32:41 -0500</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 18:32:41 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -77,7 +77,9 @@
     
       <item>
         <title>Visualization #2 of Everything I Used in a Seven Day Period</title>
-        <description>&lt;p&gt;So with a significant amount of help from &lt;a href=&quot;http://scholarslab.org/people/eric-rochester/&quot;&gt;Eric&lt;/a&gt;, I was able to get &lt;a href=&quot;http://bl.ocks.org/mbostock/4062045&quot;&gt;this force-directed graph&lt;/a&gt; from &lt;a href=&quot;http://d3js.org/&quot;&gt;d3js.org&lt;/a&gt; up and running with my data set from &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/&quot;&gt;“Everything I Used in a Seven Day Period”&lt;/a&gt;. This force-directed graph is one of &lt;a href=&quot;http://bost.ocks.org/mike/&quot;&gt;Mike Bostock’s many graphs and visualizations&lt;/a&gt;. I used what he had up on d3, replaced his data set with mine, then with a ton of help from Eric figured out how to get it to read and represent my .csv file even though the original was primed to read a .json data set.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;[Cross-posted from &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/20/visualization--2-of-everything-i-used-in-a-seven-day-period/&quot;&gt;my post on the Praxis page&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So with a significant amount of help from &lt;a href=&quot;http://scholarslab.org/people/eric-rochester/&quot;&gt;Eric&lt;/a&gt;, I was able to get &lt;a href=&quot;http://bl.ocks.org/mbostock/4062045&quot;&gt;this force-directed graph&lt;/a&gt; from &lt;a href=&quot;http://d3js.org/&quot;&gt;d3js.org&lt;/a&gt; up and running with my data set from &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/&quot;&gt;“Everything I Used in a Seven Day Period”&lt;/a&gt;. This force-directed graph is one of &lt;a href=&quot;http://bost.ocks.org/mike/&quot;&gt;Mike Bostock’s many graphs and visualizations&lt;/a&gt;. I used what he had up on d3, replaced his data set with mine, then with a ton of help from Eric figured out how to get it to read and represent my .csv file even though the original was primed to read a .json data set.&lt;/p&gt;
 
 &lt;p&gt;What you see below are a series of force-directed graphs. &lt;a href=&quot;http://scholarslab.org/people/james-p-ascher/&quot;&gt;James&lt;/a&gt; recently made a similar representation of his cloud data using one such graph, which you can find &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/18/cloud-data-present/i&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
@@ -133,7 +135,9 @@
     
       <item>
         <title>Visualization #1 of Everything I Used in a Seven Day Period</title>
-        <description>&lt;p&gt;So, I’ve tried a few different &lt;a href=&quot;https://github.com/mbostock/d3/wiki/Gallery&quot;&gt;visualization examples&lt;/a&gt; from &lt;a href=&quot;http://d3js.org/&quot;&gt;the d3 site&lt;/a&gt;. They are amazing. The one I used here is called &lt;a href=&quot;https://www.jasondavies.com/parallel-sets/&quot;&gt;“Parallel Sets”&lt;/a&gt; and made by Jason Davies. You can find here &lt;a href=&quot;https://github.com/jasondavies/d3-parsets&quot;&gt;the github page that I took this code from originally&lt;/a&gt;, with his &lt;a href=&quot;https://github.com/jasondavies/d3-parsets/blob/master/LICENSE&quot;&gt;license here&lt;/a&gt;. With a LOT of &lt;a href=&quot;http://scholarslab.org/people/wayne-graham/&quot;&gt;Wayne’s&lt;/a&gt; help I was able to get this thing operable with my data set, which can be found &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/every&quot;&gt;here&lt;/a&gt;, but is really just a .csv file of my previous post, &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/&quot;&gt;“Everything I Used in a Seven Day Period”&lt;/a&gt;. So here it is:&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;[Cross-posted from &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/18/visualizing-everything-i-used/&quot;&gt;my post on the Praxis page&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So, I’ve tried a few different &lt;a href=&quot;https://github.com/mbostock/d3/wiki/Gallery&quot;&gt;visualization examples&lt;/a&gt; from &lt;a href=&quot;http://d3js.org/&quot;&gt;the d3 site&lt;/a&gt;. They are amazing. The one I used here is called &lt;a href=&quot;https://www.jasondavies.com/parallel-sets/&quot;&gt;“Parallel Sets”&lt;/a&gt; and made by Jason Davies. You can find here &lt;a href=&quot;https://github.com/jasondavies/d3-parsets&quot;&gt;the github page that I took this code from originally&lt;/a&gt;, with his &lt;a href=&quot;https://github.com/jasondavies/d3-parsets/blob/master/LICENSE&quot;&gt;license here&lt;/a&gt;. With a LOT of &lt;a href=&quot;http://scholarslab.org/people/wayne-graham/&quot;&gt;Wayne’s&lt;/a&gt; help I was able to get this thing operable with my data set, which can be found &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/every&quot;&gt;here&lt;/a&gt;, but is really just a .csv file of my previous post, &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/&quot;&gt;“Everything I Used in a Seven Day Period”&lt;/a&gt;. So here it is:&lt;/p&gt;
 
 &lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/28701d282419c7f37a25/&quot; width=&quot;1100px&quot; height=&quot;650px&quot; /&gt;
 

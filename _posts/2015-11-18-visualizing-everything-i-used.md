@@ -8,6 +8,8 @@ category: blog
 img: 12.3vis1.png
 ---
 
+<em>[Cross-posted from <a href="http://praxis.scholarslab.org/blog/2015/11/18/visualizing-everything-i-used/">my post on the Praxis page</a>]
+
 So, I've tried a few different [visualization examples](https://github.com/mbostock/d3/wiki/Gallery) from [the d3 site](http://d3js.org/). They are amazing. The one I used here is called ["Parallel Sets"](https://www.jasondavies.com/parallel-sets/) and made by Jason Davies. You can find here [the github page that I took this code from originally](https://github.com/jasondavies/d3-parsets), with his [license here](https://github.com/jasondavies/d3-parsets/blob/master/LICENSE). With a LOT of [Wayne's](http://scholarslab.org/people/wayne-graham/) help I was able to get this thing operable with my data set, which can be found [here](http://praxis.scholarslab.org/blog/2015/11/12/every), but is really just a .csv file of my previous post, ["Everything I Used in a Seven Day Period"](http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/). So here it is:
 
 <embed src="http://bl.ocks.org/reedeth/raw/28701d282419c7f37a25/" width="1100px" height="650px"/>
