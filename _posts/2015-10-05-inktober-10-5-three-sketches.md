@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inktober 10/5: Three Sketches"
-author: "Ethan Reed"
+author:
 date: 2015-10-05 13:04
 comments: true
 category: blog
@@ -11,11 +11,11 @@ Wanted to put up a few time sketches for our own version of [Inktober](http://mr
 
 All three have to do with time and consumption.
 
-![Popcorn movie time](/images/inktober/10.5.movietime.JPG)
+![Popcorn movie time](/images/10.5.movietime.JPG)
 
 I love going to the movies, and usually opt for the biggest popcorn possible (bucket) but wonder how differently and quickly the 'time of eating' passes depending on how big your eating vessel is (I'm sure plenty of others have written about this - just Googling around quickly I found an entire website dedicated to [using smaller plates](http://www.smallplatemovement.org/)).
 
-![Pint by pint](/images/inktober/10.5pintbythehour.JPG)
+![Pint by pint](/images/10.5pintbythehour.JPG)
 
 The second one is another thing some people do to pass time together - having a drink at a bar or restaurant, which can go slow or fast. Here I tried to draw the rings that beer leaves behind as a marker of how much time passed where for the beer in this particular glass. Beer time! Reminds me of [Slughorn's Hourglass](http://harrypotter.wikia.com/wiki/Slughorn's_Hourglass) in Harry Potter, which goes faster or slower depending on the quality of conversation.
 

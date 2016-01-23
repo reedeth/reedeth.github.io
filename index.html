@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading"></h1>
 
   <ul class="post-list">
     {% for post in site.posts limit:3 %}
@@ -15,11 +15,14 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+
+      {{ post.content | strip_html | truncatewords:100}}<br>
+          <a href="{{ post.url }}"></a><br><br>
+
     {% endfor %}
   </ul>
 
+  <p> Click <a href="http://reedeth.github.io/writing/" </a>here for previous posts.</p>
   <!--put a <p> check out all my other posts!</>  -->
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
