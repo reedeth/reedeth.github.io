@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Ethan Reed is a 2015-2016 Praxis Fellow as well as a Ph.D candidate in English Literature at the University of Virginia, working with modern and contemporary American texts.  He is also interested in exploring the links between materiality, textuality, and physical computing in and out of the Makerspace in the Scholars' Lab.

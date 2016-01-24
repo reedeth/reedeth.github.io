@@ -6,7 +6,6 @@ date: 2015-03-11
 comments: true
 category: blog
 img: 03.11type.jpg
-align: "right"
 ---
 
 <em>[Cross-posted from <a href="http://scholarslab.org/experimental-humanities/printing-things-that-print-a-miniature-hand-press-project/">my post on the Scholars' Lab site</a>] </em>

@@ -8,7 +8,7 @@
 # Site settings
 title: Ethan Reed
 email: ecr6nd@virginia.edu
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Personal blog of Ethan Reed, PhD Candidate in English
   Literature at the University of Virginia.
 baseurl: "" # the subpath of your site, e.g. /blog

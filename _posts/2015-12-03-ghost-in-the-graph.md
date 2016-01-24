@@ -5,7 +5,7 @@ author: "Ethan Reed"
 date: 2015-12-03
 comments: true
 category: blog
-img: 07.6gloombox.jpg
+img: 12.3vis2sunday.png
 ---
 
 <em>[Cross-posted from <a href="http://scholarslab.org/digital-humanities/the-ghost-in-the-graph-a-recap-on-time-things-and-entanglement/">the Scholars' Lab </a> - this is the protein-rich version of a series of related posts from <a href="http://praxis.scholarslab.org/">our Praxis site</a>, with fresh reflections on the process and product now that I’m done. If you want to see originals, check out <a href="http://praxis.scholarslab.org/memo/2015/11/02/11-2-week-project-time-through-things/">the project idea</a>, <a href="http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/">the data itself as I recorded it</a>, a <a href="http://praxis.scholarslab.org/blog/2015/11/18/visualizing-everything-i-used/">first attempt at a visualization</a>, and a <a href="http://praxis.scholarslab.org/blog/2015/11/20/visualization--2-of-everything-i-used-in-a-seven-day-period/">second attempt at a series of visualizatio</a><a href="http://praxis.scholarslab.org/blog/2015/11/20/visualization--2-of-everything-i-used-in-a-seven-day-period/">ns</a>.]</em>
