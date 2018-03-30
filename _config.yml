@@ -12,7 +12,8 @@ description: >
   Personal blog of Ethan Reed, PhD Candidate in English
   Literature at the University of Virginia.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://reedeth.github.io" # the base hostname & protocol for your site
+root_url: "http://reedeth.github.io"
+## url: "http://reedeth.github.io" # the base hostname & protocol for your site
 twitter_username: reedeth
 github_username:  reedeth
 

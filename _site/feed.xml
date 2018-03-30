@@ -4,10 +4,10 @@
     <title>Ethan Reed</title>
     <description>Personal blog of Ethan Reed, PhD Candidate in English Literature at the University of Virginia.
 </description>
-    <link>http://reedeth.github.io/</link>
-    <atom:link href="http://reedeth.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Jan 2016 18:58:44 -0500</pubDate>
-    <lastBuildDate>Sat, 23 Jan 2016 18:58:44 -0500</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 26 Jan 2016 11:14:31 -0500</pubDate>
+    <lastBuildDate>Tue, 26 Jan 2016 11:14:31 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -67,8 +67,8 @@
 &lt;p&gt;Can I ever really think of “thing time” without using my very human body to think it through and write it all down? Of course not. The ghost is in the graph – the ghost (with a lot of help) put the graph online, is talking to you about the graph right now. But I can certainly try to imagine how we might think of these entanglements in less anthropomorphic ways, to de-center (in &lt;a href=&quot;https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory&quot;&gt;the vein of Latour&lt;/a&gt;) the role of the human as sole prime agent, mover of all things. Rather, I have tried to show how these objects have lives of their own - and how, as active shaping forces, these lives are causally, temporally, entangled with ours.&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://reedeth.github.io/blog/2015/12/03/ghost-in-the-graph.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/12/03/ghost-in-the-graph.html</guid>
+        <link>/blog/2015/12/03/ghost-in-the-graph.html</link>
+        <guid isPermaLink="true">/blog/2015/12/03/ghost-in-the-graph.html</guid>
         
         
         <category>blog</category>
@@ -125,8 +125,8 @@
 
 </description>
         <pubDate>Fri, 20 Nov 2015 15:39:00 -0500</pubDate>
-        <link>http://reedeth.github.io/blog/2015/11/20/visualization-2-of-everything-i-used-in-a-seven-day-period.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/11/20/visualization-2-of-everything-i-used-in-a-seven-day-period.html</guid>
+        <link>/blog/2015/11/20/visualization-2-of-everything-i-used-in-a-seven-day-period.html</link>
+        <guid isPermaLink="true">/blog/2015/11/20/visualization-2-of-everything-i-used-in-a-seven-day-period.html</guid>
         
         
         <category>blog</category>
@@ -166,8 +166,8 @@
 &lt;p&gt;Instead of even trying to get this working, I think I want to try using another example from d3 just for the practice of it. Next is probably the &lt;a href=&quot;http://mbostock.github.io/d3/talk/20111116/bundle.html&quot;&gt;hierarchical edge bundling example&lt;/a&gt;. Until then!&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Nov 2015 14:28:00 -0500</pubDate>
-        <link>http://reedeth.github.io/blog/2015/11/18/visualizing-everything-i-used.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/11/18/visualizing-everything-i-used.html</guid>
+        <link>/blog/2015/11/18/visualizing-everything-i-used.html</link>
+        <guid isPermaLink="true">/blog/2015/11/18/visualizing-everything-i-used.html</guid>
         
         
         <category>blog</category>
@@ -217,8 +217,8 @@
 &lt;p&gt;I’d like to think more on just how my busted shoe, the car in the weeds, and the too-short pencil go about ‘remaining’ in the world, and how this might differ from their still-in-use counterparts.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Oct 2015 13:47:00 -0400</pubDate>
-        <link>http://reedeth.github.io/blog/2015/10/21/inktober-10-21-when-things-break.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/10/21/inktober-10-21-when-things-break.html</guid>
+        <link>/blog/2015/10/21/inktober-10-21-when-things-break.html</link>
+        <guid isPermaLink="true">/blog/2015/10/21/inktober-10-21-when-things-break.html</guid>
         
         
         <category>blog</category>
@@ -258,8 +258,8 @@
 &lt;p&gt;I was envisioning that a given person would travel along the path of the line, x-axis being each hour passing, and y-axis being… something else. Experience? Not sure - point being, although the same number of ‘hours’ passed for each line, the length, trajectory, and experience of each line (or sets of lines) was very unique. Would love to draw some more of these, or at least think through them a little more seriously before the month is out.&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 Oct 2015 13:22:00 -0400</pubDate>
-        <link>http://reedeth.github.io/blog/2015/10/13/inktober-10-13-time-pieces-graphs.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/10/13/inktober-10-13-time-pieces-graphs.html</guid>
+        <link>/blog/2015/10/13/inktober-10-13-time-pieces-graphs.html</link>
+        <guid isPermaLink="true">/blog/2015/10/13/inktober-10-13-time-pieces-graphs.html</guid>
         
         
         <category>blog</category>
@@ -287,8 +287,8 @@
 &lt;p&gt;Last is a cigarette - read a poem for orals by &lt;a href=&quot;http://www.poetryfoundation.org/bio/sherman-alexie&quot;&gt;Sherman Alexie &lt;/a&gt;with James Dean in it (called “Tourists”), got me thinking of the images of Dean &lt;a href=&quot;http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2009/10/2jacket.jpg&quot;&gt;with a cigarette in his red jacket&lt;/a&gt; (no color in that photo, but pretty sure that’s the jacket) and got thinking of how so many people frame “breaks” from their day, little slices of time, around something like cigarette “breaks.” As though they were carrying a pack of minutes in their pocket.&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Oct 2015 13:04:00 -0400</pubDate>
-        <link>http://reedeth.github.io/blog/2015/10/05/inktober-10-5-three-sketches.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/10/05/inktober-10-5-three-sketches.html</guid>
+        <link>/blog/2015/10/05/inktober-10-5-three-sketches.html</link>
+        <guid isPermaLink="true">/blog/2015/10/05/inktober-10-5-three-sketches.html</guid>
         
         
         <category>blog</category>
@@ -312,8 +312,8 @@
 &lt;p&gt;This is my first time writing here as a Praxis Fellow for the 2015-2016 year. Along with &lt;a href=&quot;http://praxis.scholarslab.org/charter/charter-2015-2016/&quot;&gt;producing a charter&lt;/a&gt;, this year we’re all trying to think about &lt;em&gt;time&lt;/em&gt; in as many different ways as possible, staying wide open with it and willing to explore any new possibilities, each coming at it from our own unique angle. Throughout the year, in our work and in posts like this, I’ll try to keep track of and share what I feel like I am able to bring to our work from my own unique perspective (apparently even if sometimes that means just talking about a bunch of time-travel stories I’m excited about). We’re only a few weeks in, and I can already say how excited I am to be working with the Praxis team and all the folks at the Scholars’ Lab this coming year. I can’t wait to see what we come up with!&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://reedeth.github.io/blog/2015/09/24/praxis_and_time.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/09/24/praxis_and_time.html</guid>
+        <link>/blog/2015/09/24/praxis_and_time.html</link>
+        <guid isPermaLink="true">/blog/2015/09/24/praxis_and_time.html</guid>
         
         
         <category>blog</category>
@@ -351,8 +351,8 @@ An &lt;a href=&quot;https://www.arduino.cc/en/Main/arduinoBoardUno&quot;&gt;&lt;
 &lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;I hope this gives a window into some of the kinds of things people get into at DHSI. And I want to thank again all the folks at DHSI for making this amazing week possible, as well as my instructors and the other wonderful people in our class who made it such a welcoming and enlightening experience. Thanks for making a great space to tinker around in, and hopefully I will see you &lt;span class=&quot;s2&quot;&gt;next year&lt;/span&gt;!&lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://reedeth.github.io/blog/2015/07/06/physical-computing.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/07/06/physical-computing.html</guid>
+        <link>/blog/2015/07/06/physical-computing.html</link>
+        <guid isPermaLink="true">/blog/2015/07/06/physical-computing.html</guid>
         
         
         <category>blog</category>
@@ -392,8 +392,8 @@ An &lt;a href=&quot;https://www.arduino.cc/en/Main/arduinoBoardUno&quot;&gt;&lt;
 &lt;p&gt;I’m not sure if “make first, ask questions later” is a policy I would always encourage, but in this small-scale situation, given the time, resources, and encouragement to explore, following my interests ended up leading to not only to real, living problems, but also real opportunities to combine my work at the Makerspace with my work in literary study. Success!  In this instance, exploration resulted in the surprise of discovering a new set of important questions already being explored by others.&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Mar 2015 00:00:00 -0400</pubDate>
-        <link>http://reedeth.github.io/blog/2015/03/11/printing-things-that-print.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/03/11/printing-things-that-print.html</guid>
+        <link>/blog/2015/03/11/printing-things-that-print.html</link>
+        <guid isPermaLink="true">/blog/2015/03/11/printing-things-that-print.html</guid>
         
         
         <category>blog</category>
@@ -421,8 +421,8 @@ An &lt;a href=&quot;https://www.arduino.cc/en/Main/arduinoBoardUno&quot;&gt;&lt;
 &lt;p&gt;First, I consider it a form of what Matt Ratto calls “&lt;a href=&quot;http://www.tandfonline.com/doi/pdf/10.1080/01972243.2011.583819&quot;&gt;critical making&lt;/a&gt;,” something I talk about in &lt;a href=&quot;http://scholarslab.org/experimental-humanities/come-explore-the-makerspace/&quot;&gt;my first post&lt;/a&gt; here.  Second, it’s a portal into understanding some of the other amazing work digital scholars are doing with physical computing. I’m thinking of a recent article on “circuit bending” by Nina Belojevic on “&lt;a href=&quot;http://www.nanocrit.com/issues/5/circuit-bending-videogame-consoles-form-applied-media-studies&quot;&gt;Circuit Bending Videogame Consoles as a Form of Applied Media Studies&lt;/a&gt;,” in which she takes apart an NES console, rebuilds it purposefully as a “glitch console,” and reflects on the social implications of her material engagement with the physical hardware.  “By actively taking apart, breaking, remaking, and tinkering with these material devices,” she says, “hobbyists, hackers, artists, and scholars can engage with, study, highlight, and challenge social justice issues” – encouraging people to ask not just about developers, but about “who soldered the VRAM onto their console’s circuit board.”  Jon Jonson at UVic’s Maker Lab has posted about a related project on “&lt;a href=&quot;http://maker.uvic.ca/snes/&quot;&gt;Building an SNES ‘Glitch Controller’&lt;/a&gt;” – work that, he writes, is “contingent upon haptic exploration and depends highly on trial and error,” a kind of creative play to which I think Arduinos can be a great introduction.  This is not to mention projects that use actual Arduino’s as an interface with the physical world, &lt;a href=&quot;http://www.instructables.com/id/20-Unbelievable-Arduino-Projects/&quot;&gt;of which there are many&lt;/a&gt;. So come in and try them out!&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://reedeth.github.io/blog/2015/01/19/under-the-hood-arduino.html</link>
-        <guid isPermaLink="true">http://reedeth.github.io/blog/2015/01/19/under-the-hood-arduino.html</guid>
+        <link>/blog/2015/01/19/under-the-hood-arduino.html</link>
+        <guid isPermaLink="true">/blog/2015/01/19/under-the-hood-arduino.html</guid>
         
         
         <category>blog</category>
