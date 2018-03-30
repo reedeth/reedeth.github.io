@@ -80,13 +80,15 @@ While this definition doesn’t help us much with something like Sanchez’s “
 But even in more traditionally stanzaic poems—of which there are many in my corpus—deciding what “counts” as a stanza can get messy. Something as simple as page breaks, for instance, can wreak havoc in making such decisions. This is particularly the case when only one edition of a work exists, and one doesn’t have access to original manuscripts.
 
 Consider, for example, a poem titled “Malcolm Spoke/&nbsp;&nbsp;who listened?” from Haki R. Madhubuti’s 1969 collection <em>Don’t Cry, Scream</em>, published with Broadside Press. The poem is stanzaic, and distinguishes stanzas with what seem to me like normal breaks. These groupings, however, have no regular rhyme scheme, no regular use of capitalization, no regular number of lines, no tight thematic or narrative structure (i.e. a point of view that alternates from stanza to stanza), and no regular pattern in punctuation (i.e. some stanzas conclude with no punctuation while some conclude with a period). And, crucially, the poem extends partway onto a second page. These are the two groups of lines on either side of the page break:
-<blockquote>animals come in all colors.
-dark meat will roast as fast as whi-te meat
-[PAGE BREAK]
-especially in
-the unitedstatesofamerica’s
-new
-self-cleaning ovens.</blockquote>
+
+>animals come in all colors. <br />
+dark meat will roast as fast as whi-te meat <br />
+[PAGE BREAK] <br />
+especially in <br />
+the unitedstatesofamerica’s <br />
+new <br />
+self-cleaning ovens.
+
 For a few reasons, I decided to transcribe these two sections as a single stanza. First, at a more visual, design level, the poem has no other stanzas as short as two lines. The book as a whole, in fact, has very few two-line stanzas, and while there are a few single unattached lines, they usually come right at the end of a poem. In comparison with the rest of the poem and the other poems in the collection, then, it seemed more likely to be a larger stanza than not.
 
 More convincingly, however, my feeling that these two chunks are one unit comes from the poem itself—the group of lines above seems, to me, to develop a coherent line of poetic thought. The first two lines introduce the metaphor of meat of “all colors” roasting, and the following line (after the page break) intensifies this imagery by locating this metaphor in the United States and its “new /self-cleaning ovens.” The lines after the page break make most grammatical and metaphorical sense when taken as part and parcel of the lines prior to the page break.
