@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Mar 2018 16:07:33 -0400</pubDate>
-    <lastBuildDate>Fri, 30 Mar 2018 16:07:33 -0400</lastBuildDate>
+    <pubDate>Fri, 30 Mar 2018 16:18:38 -0400</pubDate>
+    <lastBuildDate>Fri, 30 Mar 2018 16:18:38 -0400</lastBuildDate>
     <generator>Jekyll v3.1.5</generator>
     
       <item>
@@ -38,12 +38,14 @@
 
 &lt;p&gt;Take, for example, lines from “a/coltrane/poem,” the final poem from Sonia Sanchez’s 1970 collection &lt;em&gt;We A BaddDDD People&lt;/em&gt; (and a poem that got me listening to Coltrane’s music while transcribing):&lt;/p&gt;
 
-&lt;p&gt;         (soft       rise up blk/people.  rise up blk/people
-         chant)   RISE.  &amp;amp;  BE.  what u can.
-                         MUST BE.BE.BE.BE.BE.BE.BE.BE-E-E-E-E-
+&lt;blockquote&gt;
+  &lt;p&gt;         (soft       rise up blk/people.  rise up blk/people
+         chant)   RISE.  &amp;amp;  BE.  what u can. &lt;br /&gt;
+                         MUST BE.BE.BE.BE.BE.BE.BE.BE-E-E-E-E- &lt;br /&gt;
                                                            BE-E-E-E-E-E-
-                                        yeh. john coltrane.
+                                        yeh. john coltrane. &lt;br /&gt;
          my favorite things is u.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Like many of the poems from &lt;em&gt;We A BaddDDD People&lt;/em&gt;, “a/coltrane/poem” makes dramatic use of indentation, punctuation, the spaces between words, and the spaces between lines. Even transcribing these lines to be published here on the Scholars’ Lab WordPress site, however, raises a number of technical and practical issues. For example, there is no easy way to produce this kind of whitespace in HTML. When web browsers parse the whitespace in poetry—indentation, tabs, etc.—they more or less get rid of it. While investigating the poetry of Mina Loy, Andrew Pilsch argues in &lt;a href=&quot;https://www.palgrave.com/us/book/9781137595683&quot;&gt;his chapter in &lt;em&gt;Reading Modernism with Machines &lt;/em&gt;&lt;/a&gt;that “the nature of HTML resists—even &lt;em&gt;prevents&lt;/em&gt;—the easy introduction of … typographic experimentation” (245)—something he discusses earlier on &lt;a href=&quot;https://andrew.pilsch.com/blog/2014/06/24/mina-loy-online-we-turn-into-machines/&quot;&gt;his blog&lt;/a&gt;. Like Pilsch, I ended up having to make use of &lt;a href=&quot;https://en.wikipedia.org/wiki/Non-breaking_space&quot;&gt;the “&amp;amp;nbsp” space&lt;/a&gt;—something Pilsch discusses more in-depth—to shoehorn spaces into the poem so it would appear correctly, I hope, in web browsers. This means that, in HTML, the above section of poetry looks like this:&lt;/p&gt;
 
@@ -87,13 +89,17 @@
 &lt;p&gt;But even in more traditionally stanzaic poems—of which there are many in my corpus—deciding what “counts” as a stanza can get messy. Something as simple as page breaks, for instance, can wreak havoc in making such decisions. This is particularly the case when only one edition of a work exists, and one doesn’t have access to original manuscripts.&lt;/p&gt;
 
 &lt;p&gt;Consider, for example, a poem titled “Malcolm Spoke/  who listened?” from Haki R. Madhubuti’s 1969 collection &lt;em&gt;Don’t Cry, Scream&lt;/em&gt;, published with Broadside Press. The poem is stanzaic, and distinguishes stanzas with what seem to me like normal breaks. These groupings, however, have no regular rhyme scheme, no regular use of capitalization, no regular number of lines, no tight thematic or narrative structure (i.e. a point of view that alternates from stanza to stanza), and no regular pattern in punctuation (i.e. some stanzas conclude with no punctuation while some conclude with a period). And, crucially, the poem extends partway onto a second page. These are the two groups of lines on either side of the page break:&lt;/p&gt;
-&lt;blockquote&gt;animals come in all colors.
-dark meat will roast as fast as whi-te meat
-[PAGE BREAK]
-especially in
-the unitedstatesofamerica’s
-new
-self-cleaning ovens.&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;animals come in all colors. &lt;br /&gt;
+dark meat will roast as fast as whi-te meat &lt;br /&gt;
+[PAGE BREAK] &lt;br /&gt;
+especially in &lt;br /&gt;
+the unitedstatesofamerica’s &lt;br /&gt;
+new &lt;br /&gt;
+self-cleaning ovens.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;For a few reasons, I decided to transcribe these two sections as a single stanza. First, at a more visual, design level, the poem has no other stanzas as short as two lines. The book as a whole, in fact, has very few two-line stanzas, and while there are a few single unattached lines, they usually come right at the end of a poem. In comparison with the rest of the poem and the other poems in the collection, then, it seemed more likely to be a larger stanza than not.&lt;/p&gt;
 
 &lt;p&gt;More convincingly, however, my feeling that these two chunks are one unit comes from the poem itself—the group of lines above seems, to me, to develop a coherent line of poetic thought. The first two lines introduce the metaphor of meat of “all colors” roasting, and the following line (after the page break) intensifies this imagery by locating this metaphor in the United States and its “new /self-cleaning ovens.” The lines after the page break make most grammatical and metaphorical sense when taken as part and parcel of the lines prior to the page break.&lt;/p&gt;
