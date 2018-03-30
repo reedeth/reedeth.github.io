@@ -5,7 +5,7 @@ author:
 date: 2015-10-05 13:04
 comments: true
 category: blog
-img: 10.5.movietime.JPG
+img: 10.5.movietime.jpg
 ---
 <em>[Cross-posted from <a href="http://praxis.scholarslab.org/blog/2015/10/05/inktober-10-5-three-sketches/">my post on the Praxis page</a> and <a href="http://scholarslab.org/digital-humanities/inktober-105-three-sketches/">on the Scholars' Lab.]
 
