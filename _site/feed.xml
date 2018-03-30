@@ -6,13 +6,15 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Mar 2018 00:02:38 -0400</pubDate>
-    <lastBuildDate>Fri, 30 Mar 2018 00:02:38 -0400</lastBuildDate>
+    <pubDate>Fri, 30 Mar 2018 00:48:25 -0400</pubDate>
+    <lastBuildDate>Fri, 30 Mar 2018 00:48:25 -0400</lastBuildDate>
     <generator>Jekyll v3.1.5</generator>
     
       <item>
         <title>Transcription is Complicated</title>
-        <description>&lt;p&gt;In a recent &lt;em&gt;PMLA&lt;/em&gt; issue on digital methods, Johanna Drucker concludes her article &lt;a href=&quot;http://www.mlajournals.org/doi/abs/10.1632/pmla.2017.132.3.628&quot;&gt;“Why Distant Reading Isn’t”&lt;/a&gt; by claiming that distant reading’s&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;[Cross-posted from &lt;a href=&quot;http://scholarslab.org/uncategorized/transcription-is-complicated/&quot;&gt;the Scholars’ Lab&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In a recent &lt;em&gt;PMLA&lt;/em&gt; issue on digital methods, Johanna Drucker concludes her article &lt;a href=&quot;http://www.mlajournals.org/doi/abs/10.1632/pmla.2017.132.3.628&quot;&gt;“Why Distant Reading Isn’t”&lt;/a&gt; by claiming that distant reading’s&lt;/p&gt;
 &lt;blockquote&gt;literalness makes it the closest form of reading imaginable. What distant reading lacks is distance. That distance is critical; it is the space between the literal text and the virtual text, between the inscriptional, notational surface and the rhetorical, cognitive effect that produces a text. (633)&lt;/blockquote&gt;
 &lt;p&gt;In other words, when an algorithm “reads” a corpus by scouring it for patterns of one kind or another, it doesn’t transform the text the way that a human reader does. It can get so “close” because it reads without the powerful and dynamic cognitive filters through which human readers conjure, out of the written word, literary worlds. For Drucker, closing the gap between “reader” and text in this way is one of the things that makes distant reading “the closest form of reading imaginable.”&lt;/p&gt;
 
@@ -132,7 +134,9 @@ majoring in physical education.&lt;/blockquote&gt;
     
       <item>
         <title>First Steps with NLP and a Collection of Amiri Baraka&#39;s Poetry</title>
-        <description>&lt;p&gt;###Amiri Baraka’s &lt;em&gt;Black Magic&lt;/em&gt;, 1969&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;[Cross-posted from &lt;a href=&quot;http://scholarslab.org/uncategorized/first-steps-with-nlp-and-a-collection-of-amiri-barakas-poetry/&quot;&gt;the Scholars’ Lab&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amiri Baraka’s &lt;em&gt;Black Magic&lt;/em&gt;, 1969&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In this post I’ll discuss my initial foray into natural language processing (NLP)—cleaning up a corpus and prepping it for some basic text analysis techniques. I want to begin, however, with a note on the small textual corpus that I’m using in these preliminary explorations—&lt;em&gt;Black Magic&lt;/em&gt;, a 1969 collection of three books of poetry by Amiri Baraka.&lt;/p&gt;
 
@@ -154,7 +158,7 @@ Will the machinegunners please step forward?&lt;/blockquote&gt;
 
 &lt;p&gt;In short: a heightened revolutionary rhetoric permeates the poems in this collection. Many have noted, however, that a troubling violence permeates them as well. For example, &lt;a href=&quot;https://www.jstor.org/stable/1512315?seq=1#page_scan_tab_contents&quot;&gt;one scholar describes&lt;/a&gt; “Black Art”—one of the most graphic but also most well-known poems from this collection—as “a difficult poem in its race and gender violence, in its violence against peoples.” In the 1991 &lt;em&gt;The Leroi Jones/Amiri Baraka Reader&lt;/em&gt;, editor William J. Harris describes &lt;em&gt;Black Magic&lt;/em&gt; as a collection in which Baraka “traces his painful exit from the white world and his entry into blackness,” an “exorcism of white consciousness and values [that] included a ten-year period of professed hatred of whites, and most especially jews [sic].” Baraka looks back at this period in &lt;a href=&quot;https://books.google.com/books?id=Z-C4E3zdBxkC&amp;amp;q=snarling#v=onepage&amp;amp;q=%22struggling%20to%20be%20born%22&amp;amp;f=false&quot;&gt;his 1984 autobiography&lt;/a&gt; at a remove from the red-hot intensity of the poems themselves: “I guess, during this period, I got the reputation for being a snarling, white-hating madman. There was some truth to it, because I was struggling to be born, to break out from the shell I could instinctively sense surrounded my own dash for freedom.” From this perspective, this is the violence of escape, of “struggling to be born” from within a constricting “shell”—a version, perhaps, of the violence of the deferred dream that explodes at the end of Langston Hughes’s poem “Harlem.”&lt;/p&gt;
 
-&lt;p&gt;###Initial Steps with NLP&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Initial Steps with NLP&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;As a scholar interested in articulations of anger, resentment, and frustration with injustice—particularly injustice of a systemic and institutional nature—as well as digital methodologies, I thought these texts in particular might be worth looking at more closely with NLP techniques.&lt;/p&gt;
 
@@ -209,7 +213,9 @@ Will the machinegunners please step forward?&lt;/blockquote&gt;
     
       <item>
         <title>Measured Unrest in the Poetry of the Black Arts Movement</title>
-        <description>&lt;p&gt;As one of the graduate fellows at the Scholars’ Lab this year, I am working on a year-long digital project (that’s also a chapter of my dissertation) in collaboration with the folks at the SLab. To sum it up in a sentence, the project hopes to offer a proof-of-concept for performing sentiment analysis on some of the most politically and affectively charged poetry of the 20th century, that of the Black Arts Movement of the 1960s and 70s. Today I wanted to post a brief overview and introduction to what I’m working on.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;[Cross-posted from &lt;a href=&quot;http://scholarslab.org/digital-humanities/measured-unrest-in-the-poetry-of-the-black-arts-movement/&quot;&gt;the Scholars’ Lab&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As one of the graduate fellows at the Scholars’ Lab this year, I am working on a year-long digital project (that’s also a chapter of my dissertation) in collaboration with the folks at the SLab. To sum it up in a sentence, the project hopes to offer a proof-of-concept for performing sentiment analysis on some of the most politically and affectively charged poetry of the 20th century, that of the Black Arts Movement of the 1960s and 70s. Today I wanted to post a brief overview and introduction to what I’m working on.&lt;/p&gt;
 
 &lt;p&gt;For some context, my research investigates theories of affect as they relate to race, class, and gender in American literature. I focus in particular upon the provocation and articulation of emotions like frustration, anger, and discontentment within recent US literary history as they relate to systemic injustice. An agitprop play that ends with shouts for workers to unite in class revolution; a poetic broadside that vents frustrations against white supremacy in America; a novel that indulges in a revenge fantasy against America’s colonial history. Unlike plays, poems, or novels that seem to obscure, submerge, or confound their own political dimensions, these works wear their hearts on their sleeves: they are frustrated, pissed off with how things are, and unafraid to speak truth to power in a direct, seemingly “un-literary” way.&lt;/p&gt;
 
