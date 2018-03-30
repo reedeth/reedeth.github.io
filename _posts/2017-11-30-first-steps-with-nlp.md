@@ -7,7 +7,7 @@ comments: true
 category: blog
 ---
 
-<em>[Cross-posted from <a href="http://scholarslab.org/uncategorized/first-steps-with-nlp-and-a-collection-of-amiri-barakas-poetry/">the Scholars' Lab</a>]</em>
+<em>[Cross-posted with minor changes from <a href="http://scholarslab.org/uncategorized/first-steps-with-nlp-and-a-collection-of-amiri-barakas-poetry/">the Scholars' Lab</a>]</em>
 
 <strong>Amiri Baraka’s <em>Black Magic</em>, 1969</strong>
 
@@ -15,17 +15,16 @@ In this post I’ll discuss my initial foray into natural language processing (N
 
 In a prefatory note to the collection, Baraka offers an “Explanation of the Work” that touches on the three books of poetry contained within. “<em>Sabotage</em>,” he writes of the first book, “meant I had come to see the superstructure of filth Americans call their way of life, and wanted to see it fall. To sabotage it,” in a word. The second book, he argues, takes this intensity even further: “But <em>Target Study</em> is trying to really study, like bomber crews do the soon to be destroyed cities. Less passive now, less uselessly ‘literary.’” If these comments are any indication, the poetry of <em>Black Magic</em> has a certain level of emotional and political intensity. These poems articulate rage—they thunder, fulminate, and protest, venting a vindicated anger at racial injustice in America. Others simmer with a more restrained heat, but still tend to employ an often unsettling rhetorical violence. Consider, for example, the conclusion of a poem from <em>Sabotage</em> titled “A POEM SOME PEOPLE WILL HAVE TO UNDERSTAND”:
 
-<blockquote>
-We have awaited the coming of a natural
-phenomenon. Mystics and romantics, knowledgeable
-workers
-of the land.
-
-But none has come.
-(repeat)
-but none has come.
-
-Will the machinegunners please step forward?</blockquote>
+> We have awaited the coming of a natural <br />
+phenomenon. Mystics and romantics, knowledgeable <br />
+workers <br />
+of the land. <br />
+<br />
+But none has come. <br />
+(repeat) <br />
+but none has come. <br />
+<br />
+Will the machinegunners please step forward?
 
 Though startling, this final image punctuates a familiar narrative: the mounting of frustration, the boiling over of feeling while waiting and waiting for justice. The speaker’s closing remark seems to respond to the question asked in <a href="https://www.poetryfoundation.org/poems/46548/harlem">Langston Hughes’s poem "Harlem"</a>—"What happens to a dream deferred?”—but raises the ante of the inquiry, and shifts from Hughes’s suggestive but still open-ended conclusion (“<em>Or does it explode?</em>”) to an unsettling direct request (“Will the machinegunners please step forward?”). The poem also, however, seems aware of its high dramatic tone: it conveys the gravity of this deferred deliverance with somewhat formal rhetoric like “We have awaited” and “But none has come”, but highlights—and perhaps undercuts—its own theatricality by embedding a stage direction in the poem, “(repeat)”. We’ve waited for long enough, the poem seems to argue, but stages this claim in such a way that the final line’s delivery hangs suspended somewhere between deadpan and dead serious.
 
@@ -47,15 +46,79 @@ As someone doing this work for the first time, I felt like I could handle writin
 
 With a huge assist from <a href="http://scholarslab.org/people/brandon-walsh/">Brandon Walsh</a>, cleaning up the rest of the text with the <a href="http://www.nltk.org/">Natural Language Toolkit</a> (NLTK) was relatively straightforward. We wrote a small Python script that removed line numbers, then proceeded to write a script that would prep the clutter-free text files for text analysis, first by reading the text file as a list of lines <strong>(1)</strong>, then by tokenizing that list of lines into a list of lists, where each sub-list is a list of the words that make up a line <strong>(2)</strong>.
 
-##<img class="alignnone wp-image-14012" src="http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-1-22.png" alt="" width="669" height="350" />
+**(1)**
+
+```python
+def get_raw_text(fn):
+    """Given a filename, get the raw text"""
+    with open(fn, 'r') as fin:
+        raw_text = fin.readlines()
+    return raw_text
+```
+
+**(2)**
+
+```python
+def tokenize(line_text):
+    """Given raw text that is a list of lines, produce the tokens"""
+    line_tokens = []
+    for line in line_text:
+        line_tokens.append(nltk.word_tokenize(line))
+    return line_tokens
+```
 
 While this may seem kind of complicated, certain kinds of text analysis need the lines to be tokenized in this way—much of the work then involves getting the text to be the right kind of data type (list of words, list of lists, etc.) for a given kind of analysis. Because I’m interested in sentiment analysis, I also needed to make every word lowercase <strong>(3)</strong>, remove punctuation <strong>(4)</strong>, and remove spaces <strong>(5)</strong>.
 
-<img class="alignnone wp-image-14013" src="http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-3-5.png" alt="" width="909" height="400" />
+**(3)**
+
+```python
+def lowercase(all_tokens):
+    """Given the tokenized text, lowercase everything"""
+    new_tokens = [[item.lower() for item in each_token] for each_token in all_tokens]
+    return new_tokens
+```
+
+**(4)**
+
+```python
+def no_punctuation(text):
+    """Given the lowercased text, remove punctuation"""
+    new_text = [[''.join(c for c in s if c not in string.punctuation) for s in y] for y in text]
+    return new_text
+```
+
+**(5)**
+
+```python
+def no_spaces(text):
+    """Given the text without punctuation, remove empty items from lists"""
+    new_text = [[s for s in x if s] for x in text]
+    return new_text
+```
 
 Having written out all these functions, we then made a new function that called on each of them one after the other, running through <a href="https://www.quora.com/What-is-natural-language-processing-pipeline">the pipeline of activities</a> necessary for NLP (our notes-to-self included):
 
-<img class="alignnone wp-image-14014" src="http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-6.png" alt="" width="457" height="450" />
+```python
+def main():
+    # get a filename
+    # get raw text
+    # preprocess that text:
+    # 1. tokenize
+    # 2. lowercase
+    # 3. Get rid of punctuation
+    # 4. get rid of white space
+    # segment if you care (if you care about sentences,
+    #   lines, stanzas, poems)
+    # tag with parts of speech
+    # do the stuff you actually care about
+
+    filename = 'corpus/black_magic_clean.txt'
+    raw_text = get_raw_text(filename)
+    tokens = tokenize(raw_text)
+    lower_tokens = lowercase(tokens)
+    without_punct = no_punctuation(lower_tokens)
+    without_spaces = no_spaces(without_punct)
+```
 
 Though it gets the job done, this code is clunky. It represents, in short, the first steps in my learning how NLP works. And while not the most elegant in terms of form or function, writing steps out in this way was conceptually clear to me as someone trying them for the first time. I also want to add that throughout much of this Brandon and I were practicing something called pair programming, with Brandon at the keyboard (or "driving") and me observing, asking questions, and discussing different ways of doing things. In addition to being an exciting scholarly investigation, this project is also a learning experience for me, and our code-decision-making process often reflects that.
 
@@ -65,11 +128,32 @@ What made this so clunky, however, stemmed in large part from how I had organize
 
 For example, after having gotten all the way to Z—my lowercased, punctuation-free list of lists—I wanted to try a basic form of text analysis I had seen in <a href="http://www.nltk.org/book/ch02.html">an early chapter of the NLTK book</a> (called stylistics) in which I compared the use of different modal verbs in the three books of Baraka’s poetry. The only way I knew how to do this was to run a frequency distribution on a giant list of words—which means I had to <em>un</em>-tokenize my nicely tokenized texts, basically jumping from Z back to W. So I wrote some clunky code that let me do so:
 
-<img class="alignnone wp-image-14018" src="http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-7.png" alt="" width="1470" height="400" />
+```python
+def frequency1(text):
+    """Given the lists without any empty slots, turn the thing into one giant list of words and run a FreqDist on it"""
+    new_text = []
+    for line in text:
+        for item in line:
+            new_text.append(item)
+    fdist = nltk.FreqDist(new_text)
+    modals = ['can', 'could', 'may', 'might', 'must', 'will', 'what', 'when', 'where', 'why']
+    for m in modals:
+        print(m + ':', fdist[m])
+```
 
 Grappling with this problem, Brandon re-introduced me to something I had learned about before but never had to use—object-oriented programming. Rather than performing a linear series of functions on my text file, reorganizing my code along OOP lines let me treat this text file as an object with many attributes, any of which I could access at any time. If I wanted my file (or object) as a giant list of words to perform a frequency distribution, I needed only to call upon that particular aspect (or attribute) of my object. If I then wanted Python to think of it as a tokenized list of lists I could just call on that particular attribute rather than having to send it through a series of transformations. It’s as if my ability to manipulate a file gained a third dimension— instead of begin stuck going from X to Y to Z and then back to X, I had access to all three stages of my file simultaneously. In essence, what was once a one-way data-type conveyor belt now became a fully-staffed NLP laboratory. In another pair programming session, we started to shift my more linear code to an object-oriented approach. What we came up with definitely needs refactoring (in my TODO list) and can certainly be improved (i.e., not overwriting a variable multiple times), but again, in the spirit of showing my learning process, I wanted to share a visual of this early version that marked my beginning to grapple with OOP for the first time:
 
-<img class="alignnone wp-image-14027" src="http://scholarslab.org/wp-content/uploads/2017/11/Reed-Ethan-code-snippet-8.png" alt="" width="475" height="250" />
+```python
+class Text(object):
+    def __init__(self, fn):
+        # attributes live here
+        self.filename = fn
+        self.raw_text = self.get_raw_text()
+        self.tokens = self.tokenize()
+        self.processed_tokens = self.lowercase()
+        self.processed_tokens = self.no_punctuation()
+        self.processed_tokens = self.no_spaces()
+```
 
 Finally “getting” object-oriented programming conceptually was truly a programming awakening for me, even if my initial attempts need some improvement—it hadn't really made sense as an approach until I was faced with the problems it helps address.
 
