@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Mar 2018 15:43:53 -0400</pubDate>
-    <lastBuildDate>Fri, 30 Mar 2018 15:43:53 -0400</lastBuildDate>
+    <pubDate>Fri, 30 Mar 2018 16:07:33 -0400</pubDate>
+    <lastBuildDate>Fri, 30 Mar 2018 16:07:33 -0400</lastBuildDate>
     <generator>Jekyll v3.1.5</generator>
     
       <item>
@@ -418,38 +418,16 @@ Will the machinegunners please step forward?&lt;/p&gt;
 
 &lt;p&gt;Anyways, more on what all this might mean later. Right now I’m still just practicing getting these things operational and embedded in a post on our site (in this case using &lt;a href=&quot;https://gist.github.com/&quot;&gt;GitHub Gist&lt;/a&gt; and &lt;a href=&quot;http://bl.ocks.org/&quot;&gt;bl.ocks.org&lt;/a&gt;). I plan on writing a post reflecting on this whole process and synthesizing a bit, and maybe even one more visualization. We’ll see. Until then: the graphs themselves!&lt;/p&gt;
 
-&lt;p&gt;Monday, 11.2.2015:&lt;/p&gt;
-
-&lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/8259c3984ad826227c6d/&quot; width=&quot;1100px&quot; height=&quot;650px&quot; /&gt;
-
-&lt;p&gt;Tuesday, 11.3.2015:&lt;/p&gt;
-
-&lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/bf87d62d2c52e815a9ae/&quot; width=&quot;1100px&quot; height=&quot;650px&quot; /&gt;
-
-&lt;p&gt;Wednesday, 11.4.2015:&lt;/p&gt;
-
-&lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/18dedb74e52b69a8fbed/&quot; width=&quot;1100px&quot; height=&quot;650px&quot; /&gt;
-
-&lt;p&gt;Thursday, 11.5.2015:&lt;/p&gt;
-
-&lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/7f8e0cb2446004ffe39c/&quot; width=&quot;1100px&quot; height=&quot;650px&quot; /&gt;
-
-&lt;p&gt;Friday, 11.6.2015:&lt;/p&gt;
-
-&lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/577082f32ea974c76958/&quot; width=&quot;1100px&quot; height=&quot;650px&quot; /&gt;
-
-&lt;p&gt;Saturday, 11.7.2015:&lt;/p&gt;
-
-&lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/97800a0d03021f0dc65a/&quot; width=&quot;1100px&quot; height=&quot;650px&quot; /&gt;
-
-&lt;p&gt;Sunday, 11.8.2015:&lt;/p&gt;
-
-&lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/d3b68c10128d46fb6f28/&quot; width=&quot;1100px&quot; height=&quot;650px&quot; /&gt;
-
-&lt;p&gt;All seven days combined:&lt;/p&gt;
-
-&lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/57868ff574651558813a/&quot; width=&quot;2100px&quot; height=&quot;1650px&quot; /&gt;
-
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/reedeth/raw/8259c3984ad826227c6d/&quot;&gt;Monday, 11.2.2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/reedeth/raw/bf87d62d2c52e815a9ae/&quot;&gt;Tuesday, 11.3.2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/reedeth/raw/18dedb74e52b69a8fbed/&quot;&gt;Wednesday, 11.4.2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/reedeth/raw/7f8e0cb2446004ffe39c/&quot;&gt;Thursday, 11.5.2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/reedeth/raw/577082f32ea974c76958/&quot;&gt;Friday, 11.6.2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/reedeth/raw/97800a0d03021f0dc65a/&quot;&gt;Saturday, 11.7.2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/reedeth/raw/d3b68c10128d46fb6f28/&quot;&gt;Sunday, 11.8.2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/reedeth/raw/57868ff574651558813a/&quot;&gt;All seven days combined&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Fri, 20 Nov 2015 15:39:00 -0500</pubDate>
         <link>/blog/2015/11/20/visualization-2-of-everything-i-used-in-a-seven-day-period.html</link>
@@ -464,9 +442,9 @@ Will the machinegunners please step forward?&lt;/p&gt;
         <title>Visualization #1 of Everything I Used in a Seven Day Period</title>
         <description>&lt;p&gt;&lt;em&gt;[Cross-posted from &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/18/visualizing-everything-i-used/&quot;&gt;my post on the Praxis page&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;So, I’ve tried a few different &lt;a href=&quot;https://github.com/mbostock/d3/wiki/Gallery&quot;&gt;visualization examples&lt;/a&gt; from &lt;a href=&quot;http://d3js.org/&quot;&gt;the d3 site&lt;/a&gt;. They are amazing. The one I used here is called &lt;a href=&quot;https://www.jasondavies.com/parallel-sets/&quot;&gt;“Parallel Sets”&lt;/a&gt; and made by Jason Davies. You can find here &lt;a href=&quot;https://github.com/jasondavies/d3-parsets&quot;&gt;the github page that I took this code from originally&lt;/a&gt;, with his &lt;a href=&quot;https://github.com/jasondavies/d3-parsets/blob/master/LICENSE&quot;&gt;license here&lt;/a&gt;. With a LOT of &lt;a href=&quot;http://scholarslab.org/people/wayne-graham/&quot;&gt;Wayne’s&lt;/a&gt; help I was able to get this thing operable with my data set, which can be found &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/every&quot;&gt;here&lt;/a&gt;, but is really just a .csv file of my previous post, &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/&quot;&gt;“Everything I Used in a Seven Day Period”&lt;/a&gt;. So here it is:&lt;/p&gt;
+&lt;p&gt;So, I’ve tried a few different &lt;a href=&quot;https://github.com/mbostock/d3/wiki/Gallery&quot;&gt;visualization examples&lt;/a&gt; from &lt;a href=&quot;http://d3js.org/&quot;&gt;the d3 site&lt;/a&gt;. They are amazing. The one I used here is called &lt;a href=&quot;https://www.jasondavies.com/parallel-sets/&quot;&gt;“Parallel Sets”&lt;/a&gt; and made by Jason Davies. You can find here &lt;a href=&quot;https://github.com/jasondavies/d3-parsets&quot;&gt;the github page that I took this code from originally&lt;/a&gt;, with his &lt;a href=&quot;https://github.com/jasondavies/d3-parsets/blob/master/LICENSE&quot;&gt;license here&lt;/a&gt;. With a LOT of &lt;a href=&quot;http://scholarslab.org/people/wayne-graham/&quot;&gt;Wayne’s&lt;/a&gt; help I was able to get this thing operable with my data set, which can be found &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/every&quot;&gt;here&lt;/a&gt;, but is really just a .csv file of my previous post, &lt;a href=&quot;http://praxis.scholarslab.org/blog/2015/11/12/everything-i-used-in-a-seven-day-period/&quot;&gt;“Everything I Used in a Seven Day Period”&lt;/a&gt;.&lt;/p&gt;
 
-&lt;embed src=&quot;http://bl.ocks.org/reedeth/raw/28701d282419c7f37a25/&quot; width=&quot;1100px&quot; height=&quot;650px&quot; /&gt;
+&lt;p&gt;So &lt;a href=&quot;http://bl.ocks.org/reedeth/raw/28701d282419c7f37a25/&quot;&gt;here it is&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;As you can tell, in my capable hands Davies’ once beautiful graph has been promptly turned into an incomprehensible - though still, amazingly, interactive - scribble. As a visualization of data, it’s pretty close to nonsensical. This doesn’t come as a surprise to me, as I more or less just tried to crowbar my set of data into Davies’ code/setup until something came up that looked anything like his original graph. Which is does! Sort of.&lt;/p&gt;
 

@@ -22,34 +22,11 @@ What we're left with, however, is something new, and I hope worthwhile on it's o
 
 Anyways, more on what all this might mean later. Right now I'm still just practicing getting these things operational and embedded in a post on our site (in this case using [GitHub Gist](https://gist.github.com/) and [bl.ocks.org](http://bl.ocks.org/)). I plan on writing a post reflecting on this whole process and synthesizing a bit, and maybe even one more visualization. We'll see. Until then: the graphs themselves!
 
-Monday, 11.2.2015:
-
-<embed src="http://bl.ocks.org/reedeth/raw/8259c3984ad826227c6d/" width="1100px" height="650px"/>
-
-Tuesday, 11.3.2015:
-
-<embed src="http://bl.ocks.org/reedeth/raw/bf87d62d2c52e815a9ae/" width="1100px" height="650px"/>
-
-Wednesday, 11.4.2015:
-
-<embed src="http://bl.ocks.org/reedeth/raw/18dedb74e52b69a8fbed/" width="1100px" height="650px"/>
-
-Thursday, 11.5.2015:
-
-<embed src="http://bl.ocks.org/reedeth/raw/7f8e0cb2446004ffe39c/" width="1100px" height="650px"/>
-
-Friday, 11.6.2015:
-
-<embed src="http://bl.ocks.org/reedeth/raw/577082f32ea974c76958/" width="1100px" height="650px"/>
-
-Saturday, 11.7.2015:
-
-<embed src="http://bl.ocks.org/reedeth/raw/97800a0d03021f0dc65a/" width="1100px" height="650px"/>
-
-Sunday, 11.8.2015:
-
-<embed src="http://bl.ocks.org/reedeth/raw/d3b68c10128d46fb6f28/" width="1100px" height="650px"/>
-
-All seven days combined:
-
-<embed src="http://bl.ocks.org/reedeth/raw/57868ff574651558813a/" width="2100px" height="1650px"/>
+- [Monday, 11.2.2015](http://bl.ocks.org/reedeth/raw/8259c3984ad826227c6d/)
+- [Tuesday, 11.3.2015](http://bl.ocks.org/reedeth/raw/bf87d62d2c52e815a9ae/)
+- [Wednesday, 11.4.2015](http://bl.ocks.org/reedeth/raw/18dedb74e52b69a8fbed/)
+- [Thursday, 11.5.2015](http://bl.ocks.org/reedeth/raw/7f8e0cb2446004ffe39c/)
+- [Friday, 11.6.2015](http://bl.ocks.org/reedeth/raw/577082f32ea974c76958/)
+- [Saturday, 11.7.2015](http://bl.ocks.org/reedeth/raw/97800a0d03021f0dc65a/)
+- [Sunday, 11.8.2015](http://bl.ocks.org/reedeth/raw/d3b68c10128d46fb6f28/)
+- [All seven days combined](http://bl.ocks.org/reedeth/raw/57868ff574651558813a/)

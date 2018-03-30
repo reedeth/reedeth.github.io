@@ -23,7 +23,7 @@ We jerry-rigged a few modifications (i.e. taped-on cardboard to raise and even o
 
 <img src="{{ root_url  }}/images/03.11type.jpg" alt="Type" width="450" height="600">
 
-As you can see, our goal in re-creation here wasn’t so much fidelity to a specific historical object as it was to explore the capabilities of an older technology (the hand-press) shrunk down in a new way to an individual desktop size that anyone could use on their own. 
+As you can see, our goal in re-creation here wasn’t so much fidelity to a specific historical object as it was to explore the capabilities of an older technology (the hand-press) shrunk down in a new way to an individual desktop size that anyone could use on their own.
 
 <img src="{{ root_url  }}/images/03.11hijames.jpg" alt="Hi James!" width="600" height="450">
 
