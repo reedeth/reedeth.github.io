@@ -4,19 +4,17 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Courses I have taught and courses I would like to teach--click the title of a course for sample syllabi.
-
-### Humanities Intensive Learning and Teaching [(HILT)](http://dhtraining.org/hilt/)
+## Humanities Intensive Learning and Teaching [(HILT)](http://dhtraining.org/hilt/)
 * [**"Help! I'm a Humanist!--Humanities Programming with Python"**](https://humanitiesprogramming.github.io/)
   - (Co-instructor with Brandon Walsh, Summer 2017)
 
 Course description from [our site](https://humanitiesprogramming.github.io):
 
-This course introduces participants to humanities programming through the use of Python for data acquisition, cleaning, and analysis. The course assumes no prior technical knowledge and will focus on accomplishing basic research tasks. Students should walk away feeling equipped to tackle a variety of typical problems that arise for digital humanists.
+"This course introduces participants to humanities programming through the use of Python for data acquisition, cleaning, and analysis. The course assumes no prior technical knowledge and will focus on accomplishing basic research tasks. Students should walk away feeling equipped to tackle a variety of typical problems that arise for digital humanists.
 
-We will discuss programming and debugging concepts through the design, implementation, and presentation of small text analysis projects. Primary technologies and topics covered in this course will include the command line, Git, GitHub, and Python; working with data sources such as API’s, CSV files, and data scraped from the web; and basic text analysis. Over the course of the week, we will work with data from DPLA and Project Gutenberg. If the words above mean nothing to you, don’t panic—this course is for you.
+We will discuss programming and debugging concepts through the design, implementation, and presentation of small text analysis projects. Primary technologies and topics covered in this course will include the command line, Git, GitHub, and Python; working with data sources such as API’s, CSV files, and data scraped from the web; and basic text analysis. Over the course of the week, we will work with data from DPLA and Project Gutenberg. If the words above mean nothing to you, don’t panic—this course is for you."
 
-### Courses taught at the University of Virginia
+## The University of Virginia
 * **ENLT 2514: "The Western and the West"**
     - (Instructor, Fall 2016; Spring 2017; introductory literature seminar on modern American authors)
 
@@ -32,7 +30,7 @@ This section of ENWR 1510 will focus on writing concerned with the university.  
 
 This section of ENWR 1510 will focus on writing concerned with travel in a broad sense. By this I mean not only traveling across the borders between states or countries, but borders, boundaries, and meaningful distances of all kinds.  We will read great examples of traditional travel writing as well as writing about less conventional kinds of travel. These writings will come in a variety of genres, from short stories and stand-up routines to critical theory, anthropological studies, and Hollywood blockbusters. They will include examples of travel writing as well critiques of travel writing.
 
-### Prospective courses
+## Prospective courses
 * **"The Protest Novel, Redux"**
     - (Prospective upper-level literature seminar in modern & contemporary American literature)
 
