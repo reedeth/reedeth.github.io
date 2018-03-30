@@ -19,6 +19,6 @@ permalink: /writing/
         </h2>
       </li>
       {{ post.content | strip_html | truncatewords:50}}<br>
-          <a href="{{ post.url }}"></a><br><br>
+          <a href="{{ post.url }}"></a><br>
     {% endfor %}
   </ul>

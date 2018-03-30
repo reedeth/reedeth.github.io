@@ -16,10 +16,10 @@ layout: default
         </h2>
       </li>
 
-      {{ post.content | strip_html | truncatewords:100}}<br>
-          <a href="{{ post.url }}"></a><br><br>
-
-    {% endfor %}
+      <p font-style: italic> {{ post.content | strip_html | truncatewords:100 }}</p>
+        <p> <a href="{{ post.url }}">[Read more...]</a></p>
+        <br>
+      {% endfor %}
   </ul>
 
   <p> Click <a href="{{ root.url }}/writing/" </a>here for previous posts.</p>
