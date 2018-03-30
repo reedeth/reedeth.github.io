@@ -7,6 +7,8 @@ comments: true
 category: blog
 ---
 
+<em>[Cross-posted from <a href="http://scholarslab.org/digital-humanities/measured-unrest-in-the-poetry-of-the-black-arts-movement/">the Scholars' Lab</a>]</em>
+
 As one of the graduate fellows at the Scholars’ Lab this year, I am working on a year-long digital project (that’s also a chapter of my dissertation) in collaboration with the folks at the SLab. To sum it up in a sentence, the project hopes to offer a proof-of-concept for performing sentiment analysis on some of the most politically and affectively charged poetry of the 20th century, that of the Black Arts Movement of the 1960s and 70s. Today I wanted to post a brief overview and introduction to what I’m working on.
 
 For some context, my research investigates theories of affect as they relate to race, class, and gender in American literature. I focus in particular upon the provocation and articulation of emotions like frustration, anger, and discontentment within recent US literary history as they relate to systemic injustice. An agitprop play that ends with shouts for workers to unite in class revolution; a poetic broadside that vents frustrations against white supremacy in America; a novel that indulges in a revenge fantasy against America’s colonial history. Unlike plays, poems, or novels that seem to obscure, submerge, or confound their own political dimensions, these works wear their hearts on their sleeves: they are frustrated, pissed off with how things are, and unafraid to speak truth to power in a direct, seemingly “un-literary” way.

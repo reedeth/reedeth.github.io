@@ -7,6 +7,8 @@ comments: true
 category: blog
 ---
 
+<em>[Cross-posted from <a href="http://scholarslab.org/uncategorized/transcription-is-complicated/">the Scholars' Lab</a>]</em>
+
 In a recent <em>PMLA</em> issue on digital methods, Johanna Drucker concludes her article <a href="http://www.mlajournals.org/doi/abs/10.1632/pmla.2017.132.3.628">“Why Distant Reading Isn’t”</a> by claiming that distant reading’s
 <blockquote>literalness makes it the closest form of reading imaginable. What distant reading lacks is distance. That distance is critical; it is the space between the literal text and the virtual text, between the inscriptional, notational surface and the rhetorical, cognitive effect that produces a text. (633)</blockquote>
 In other words, when an algorithm “reads” a corpus by scouring it for patterns of one kind or another, it doesn’t transform the text the way that a human reader does. It can get so “close” because it reads without the powerful and dynamic cognitive filters through which human readers conjure, out of the written word, literary worlds. For Drucker, closing the gap between “reader” and text in this way is one of the things that makes distant reading “the closest form of reading imaginable.”
