@@ -7,7 +7,7 @@ comments: true
 category: blog
 ---
 
-[Cross-posted with minor changes from [the Scholars' Lab](http://scholarslab.org/uncategorized/transcription-is-complicated/)]
+*[Cross-posted with minor changes from [the Scholars' Lab](http://scholarslab.org/uncategorized/transcription-is-complicated/)]*
 
 In a recent *PMLA* issue on digital methods, Johanna Drucker concludes her article [“Why Distant Reading Isn’t”](http://www.mlajournals.org/doi/abs/10.1632/pmla.2017.132.3.628) by claiming that distant reading’s
 
