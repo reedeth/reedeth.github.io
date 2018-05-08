@@ -7,7 +7,9 @@ comments: true
 category: blog
 ---
 
-_(This post is part of a two-post series—I ended up having too much to say about the two poems I looked at with VADER and Pattern, so I split it up. Second half can be found [here](http://scholarslab.org/uncategorized/poems-with-pattern-and-vader-part-2-nikki-giovanni/)!)_
+*[Cross-posted with minor changes from [the Scholars' Lab](http://scholarslab.org/uncategorized/poems-with-pattern-and-vader-part-1-quincy-troupe/).]*
+
+_(This post is part of a two-post series—I ended up having too much to say about the two poems I looked at with VADER and Pattern, so I split it up. Second half can be found [here](https://reedeth.github.io/blog/2018/04/26/poems-with-pattern-and-vader-part-2.html)!)_
 
 Quincy Troupe’s “Come Sing a Song”—the 11-line poem that opens his 1972 collection _Embryo Poems, 1967-1971_—welcomes the reader with a series of invitations that are also requests. Apostrophizing in the imperative, the speaker begins with an appeal (“Come sing a song, Black Man”) and goes on to make similar appeals in almost every subsequent line. For example, the final three lines of the poem:
 
