@@ -20,15 +20,21 @@ We will discuss programming and debugging concepts through the design, implement
 
 Posses, shootouts, and the frontier–loners, violence, and the law. Or is it family, legacy, and society–storytellers, safety, and a warm hearth? What is a western? What is the West, and why do we keep writing stories about it? This course explores where myth and reality meet on the horizon of the American West, the staying power of the stories that have been imagined out of it, and how modern writers adapt, challenge, and disrupt the legacies of both. Themes include: the frontier, violence, gender, indigeneity, legacies of colonialism, legacies of slavery, and the present-day consequences of American colonial expansion.
 
+[Syllabus](https://reedeth.github.io/assets/The_Western_and_the_West_ENLT_17_S.pdf)
+
 * **ENWR 1510: "The University"**
     - (Instructor, Spring 2015; academic writing course.)
 
 This section of ENWR 1510 will focus on writing concerned with the university.  We will read classic texts that have left their mark on discussions of the university, newer texts concerned with more topical issues, as well as representations of the university in the arts.  These writings will come in a variety of genres and be intended for a variety of audiences, from academic articles and newspaper op-eds to postmodern novels and contemporary cinema. These readings are not “experts” you will be asked to agree with and emulate, but rather resources to help us think about the problems we will address in this course as well as how to write about them. If you feel like being critical of something I have assigned, I encourage you to do so.
 
+[Syllabus](https://reedeth.github.io/assets/The_University_ENWR_15_S.pdf)
+
 * **ENWR 1510: "Writing About Travel"**
     - (Instructor, Fall 2014; academic writing course)
 
 This section of ENWR 1510 will focus on writing concerned with travel in a broad sense. By this I mean not only traveling across the borders between states or countries, but borders, boundaries, and meaningful distances of all kinds.  We will read great examples of traditional travel writing as well as writing about less conventional kinds of travel. These writings will come in a variety of genres, from short stories and stand-up routines to critical theory, anthropological studies, and Hollywood blockbusters. They will include examples of travel writing as well critiques of travel writing.
+
+[Syllabus](https://reedeth.github.io/assets/Writing_About_Travel_ENWR_14_F.pdf)
 
 ## Prospective courses
 * **"The Protest Novel, Redux"**
