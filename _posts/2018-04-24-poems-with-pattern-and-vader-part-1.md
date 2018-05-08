@@ -7,7 +7,7 @@ comments: true
 category: blog
 ---
 
-*[Cross-posted with minor changes from [the Scholars' Lab](http://scholarslab.org/uncategorized/poems-with-pattern-and-vader-part-1-quincy-troupe/).]*
+*[Cross-posted from [the Scholars' Lab](http://scholarslab.org/uncategorized/poems-with-pattern-and-vader-part-1-quincy-troupe/).]*
 
 _(This post is part of a two-post series—I ended up having too much to say about the two poems I looked at with VADER and Pattern, so I split it up. Second half can be found [here](https://reedeth.github.io/blog/2018/04/26/poems-with-pattern-and-vader-part-2.html)!)_
 
